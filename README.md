@@ -1,1 +1,9 @@
 # Tasha_Curtis
+## Hey 👋, This is Tasha Curtis
+[![Gmail Badge](https://img.shields.io/badge/-curtistasha@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:curtistasha@gmail.com)](mailto:curtistasha@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Tasha Curtis-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Tasha Curtis/)](https://www.linkedin.com/in/Tasha Curtis/) [![Github Badge](https://img.shields.io/badge/-curtistasha@gmail.com-grey?style=flat&logo=github&logoColor=white&link=https://github.com/curtistasha@gmail.com/)](https://www.github.com/curtistasha@gmail.com/) [![Twitter Badge](https://img.shields.io/badge/-N/A-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/N/A/)](https://www.twitter.com/N/A/) <p align='left'>I’m a storyteller at heart, passionate about crafting narratives that captivate and make a difference. Whether through code, data, or creative projects, I believe in the power of a compelling story to drive change and inspire action. When I'm not working on my latest project, you’ll likely find me exploring new corners of the world—traveling fuels my creativity and broadens my perspective. Family is my anchor, and I treasure the memories I create with my loved ones. Here on GitHub, I combine my love for storytelling with my technical skills to build solutions that leave a lasting impact.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=curtistasha@gmail.com alt=curtistasha@gmail.com /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=curtistasha@gmail.com&show_icons=true&include_all_commits=true)](https://github.com/curtistasha@gmail.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtistasha@gmail.com&layout=compact)](https://github.com/curtistasha@gmail.com/github-readme-stats)
